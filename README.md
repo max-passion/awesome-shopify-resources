@@ -48,6 +48,7 @@ Here's a general pathway for becoming a Shopify developer:
 - [Shopify Theme Inspector for Chrome](https://shopify.dev/themes/tools/theme-inspector)
 - [Shopify Lighthouse CLI](https://shopify.dev/themes/tools/lighthouse-ci)
 - [Dawn Reference Theme](https://shopify.dev/themes/tools/dawn)
+- [Packrift MCP](https://packrift.com/pages/mcp-server-card) - Public MCP server card for a Shopify packaging catalog, with read-only tools for product search, pricing, inventory, packaging recommendations, shipping estimates, and cart URL creation.
 
 ## Books️
 
