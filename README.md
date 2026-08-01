@@ -47,6 +47,7 @@ Here's a general pathway for becoming a Shopify developer:
 - [Theme Check](https://shopify.dev/themes/tools/theme-check)
 - [Shopify Theme Inspector for Chrome](https://shopify.dev/themes/tools/theme-inspector)
 - [Shopify Lighthouse CLI](https://shopify.dev/themes/tools/lighthouse-ci)
+- [Shopify App Review Triage Worksheet](https://alfredtech2026.github.io/shopify-app-review-brief/tools/review-triage-worksheet.html?utm_source=max-passion-awesome-shopify-resources&utm_medium=resource-directory&utm_campaign=inbound-validation)
 - [Dawn Reference Theme](https://shopify.dev/themes/tools/dawn)
 
 ## Books️
