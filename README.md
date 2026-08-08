@@ -100,6 +100,7 @@ Here's a general pathway for becoming a Shopify developer:
 
 - [Shopify Plus Academy](https://plusacademy.shopify.com/?&utm_source=community&utm_medium=web&utm_campaign=learnmenu&utm_term=EN)
 - [Developer](https://shopify.dev/?&utm_source=community&utm_medium=web&utm_campaign=learnmenu&utm_term=EN)
+- [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/)
 
 <a href="#table-of-contents"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a>
 
