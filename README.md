@@ -48,6 +48,7 @@ Here's a general pathway for becoming a Shopify developer:
 - [Shopify Theme Inspector for Chrome](https://shopify.dev/themes/tools/theme-inspector)
 - [Shopify Lighthouse CLI](https://shopify.dev/themes/tools/lighthouse-ci)
 - [Dawn Reference Theme](https://shopify.dev/themes/tools/dawn)
+- [CSV SafeCheck](https://csv-safecheck.pages.dev/) - Checks Shopify product CSVs locally for import blockers and produces a corrected copy.
 
 ## Books️
 
