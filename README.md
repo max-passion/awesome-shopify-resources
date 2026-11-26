@@ -13,7 +13,6 @@ Before submitting any new resources, we kindly request that you take a moment to
 ## Table of Contents
 
 - [Books 📚](#Books)
-- [Certification 🎖️](#Certification)
 - [Community 👨🏽‍🤝‍👨🏼](#Shopify-Community)
 - [Developer Tools](#Developer-Tools)
 - [Learning](#Learning)
@@ -68,18 +67,6 @@ Here's a general pathway for becoming a Shopify developer:
 
 <a href="#table-of-contents"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a>
 
-## Certification
-
-| Website                                                                                                 | Description                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Shopify Experts Certification](https://www.shopify.com/partners/become-a-shopify-expert/certification) | Certification is offered by Shopify and it is designed to test your knowledge of Shopify development and design.                                                                                  |
-| [Shopify App Development Certification](https://www.shopify.com/partners/app-development-certification) | Certification is offered by Shopify to test your knowledge of Shopify's API and app development.                                                                                                  |
-| [Shopify Plus Certification](https://www.shopify.com/plus/partners/certification)                       | Certification is offered by Shopify for developers who are specialized in Shopify Plus, which is the enterprise-level solution for high-volume merchants.                                         |
-| [Shopify Partner Certification](https://www.shopify.com/partners/partner-certification)                 | Certification is offered by Shopify to recognize partner's achievement, it's a way for partners to demonstrate their level of knowledge and expertise in building and customizing Shopify stores. |
-| [Shopify POS Certification](https://www.shopify.com/partners/pos-certification)                         | Certification is offered by Shopify for developers who want to learn how to use Shopify POS to help merchants sell in person as well as online.                                                   |
-
-<a href="#table-of-contents"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a>
-
 ## Shopify Community
 
 > Popular Communities for [Shopify](https://www.shopify.com) development
@@ -87,9 +74,7 @@ Here's a general pathway for becoming a Shopify developer:
 | Website                                                                           | Description                                                                                                                               |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [Shopify Partners Community](https://community.shopify.com/c/shopify-community/ct-p/en)            | Community is for Shopify partners and developers to connect, learn, and collaborate.                                                      |
-| [Shopify Developers Community](https://community.shopify.com/c/Shopify-APIs-SDKs) | Community is for developers to discuss and share information about the Shopify platform, including API and app development.               |
 | [Shopify Ecosystem](https://ecommerce.shopify.com/)                               | Community is for Shopify experts, developers, and merchants to connect, learn, and share knowledge.                                       |
-| [Shopify Designers Community](https://community.shopify.com/c/Design)             | Community is for Shopify designers to share and discuss design-related topics, such as themes, customizations, and design best practices. |
 | [Shopify Slack](https://shopifydevelopers.slack.com/)                             | Slack channel where you can connect with other Shopify developers and merchants to get help, share knowledge and collaborate.             |
 | [GitHub Shopify Community](https://github.com/shopify)                            | Community of developers who contribute to Shopify open-source projects on GitHub.                                                         |
 | [Reddit Shopify Community](https://www.reddit.com/r/shopify/)                     | Community of Shopify developers and merchants who share information and discuss various Shopify-related topics.                           |
@@ -100,6 +85,7 @@ Here's a general pathway for becoming a Shopify developer:
 
 - [Shopify Plus Academy](https://plusacademy.shopify.com/?&utm_source=community&utm_medium=web&utm_campaign=learnmenu&utm_term=EN)
 - [Developer](https://shopify.dev/?&utm_source=community&utm_medium=web&utm_campaign=learnmenu&utm_term=EN)
+- [Swavent Guides](https://swavent.com/en/guides)
 
 <a href="#table-of-contents"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a>
 
